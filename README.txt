@@ -12,15 +12,11 @@ Pal Market is a family-owned grocery store located on University Avenue in the h
 - Check cashing services
 - On-site laundry facilities
 
-## Our Mission
+## Their Mission
 To provide our neighborhood with quality products and convenient services all under one roof, delivered with friendly, personalized service that only a family-owned business can offer.
 
-## Location
-Visit us on University Avenue, Palo Alto
-(Contact details and exact address to be added)
-
 ## Developer Note
-This site was developed and maintained by Muti Shuman as a volunteer project to support local business.
+This site was developed and maintained by Muti Shuman as a volunteer project to support a local business.
 
 ---
 © Pal Market. All rights reserved.
